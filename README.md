@@ -98,10 +98,10 @@ The Web UI shares the same core engine as the CLI — no duplicated logic.
 
 ## 📚 Documentation
 
-- **[ARCHITECTURE.md](ARCHITECTURE.md)** - Complete system architecture and design
-- **[QUICKSTART.md](QUICKSTART.md)** - Installation and getting started guide
-- **[PLAN.md](PLAN.md)** - Development roadmap and phases
-- **[PHASE0_SUMMARY.md](PHASE0_SUMMARY.md)** - Phase 0 implementation summary
+- **[ARCHITECTURE.md](docs/ARCHITECTURE.md)** - Complete system architecture and design
+- **[QUICKSTART.md](docs/QUICKSTART.md)** - Installation and getting started guide
+- **[PLAN.md](docs/PLAN.md)** - Development roadmap and phases
+- **[PHASE0_SUMMARY.md](docs/PHASE0_SUMMARY.md)** - Phase 0 implementation summary
 
 ---
 
