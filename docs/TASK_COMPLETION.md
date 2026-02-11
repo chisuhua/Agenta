@@ -174,7 +174,6 @@ Execution & Tools Layer (执行与工具层)
 4. **[PLAN.md](PLAN.md)** - 开发计划（四阶段）
 5. **[PHASE0_SUMMARY.md](PHASE0_SUMMARY.md)** - Phase 0 实现总结
 6. **[QUICKSTART.md](QUICKSTART.md)** - 快速开始指南
-7. **[ARCH.md](ARCH.md)** - 早期架构讨论（已被 ARCHITECTURE.md 取代）
 
 **文档关系**:
 - ✅ [ARCHITECTURE.md](ARCHITECTURE.md) 为最终架构设计

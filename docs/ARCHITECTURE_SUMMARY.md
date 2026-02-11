@@ -105,7 +105,6 @@
 - **[PLAN.md](PLAN.md)** - 开发计划（4 个阶段）
 - **[PHASE0_SUMMARY.md](PHASE0_SUMMARY.md)** - Phase 0 实现总结
 - **[QUICKSTART.md](QUICKSTART.md)** - 安装和配置指南
-- **[ARCH.md](ARCH.md)** - 早期架构讨论（已被 ARCHITECTURE.md 取代）
 
 ## 💡 快速理解架构
 

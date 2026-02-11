@@ -49,13 +49,6 @@
    - 质量保证说明
    - 与其他文档的关系
 
-### 历史文档
-
-7. **[ARCH.md](ARCH.md)** - 早期架构讨论（已废弃）
-   - 早期的架构设计思路
-   - 已被 ARCHITECTURE.md 取代
-   - 仅供参考
-
 ## 🎯 阅读指南
 
 ### 如果你是新加入的开发者
@@ -73,9 +66,9 @@
 
 ### 如果你需要了解系统设计
 推荐阅读：
-1. [ARCHITECTURE.md](ARCHITECTURE.md) 第 79-151 行 - 四层架构图
-2. [ARCHITECTURE.md](ARCHITECTURE.md) 第 580-678 行 - 数据流说明
-3. [ARCHITECTURE.md](ARCHITECTURE.md) 第 708-783 行 - 安全模型
+1. [ARCHITECTURE.md](ARCHITECTURE.md) 系统概述 - 核心特性和设计原则
+2. [ARCHITECTURE.md](ARCHITECTURE.md) 整体架构 - 四层架构设计
+3. [ARCHITECTURE.md](ARCHITECTURE.md) 工具对比 - 与同类工具的对比分析
 
 ## 📖 文档维护
 
@@ -94,13 +87,13 @@ README.md (项目根目录)
     └── 链接到 docs/PHASE0_SUMMARY.md
 
 docs/
+    ├── README.md (本文件 - 文档导航)
     ├── ARCHITECTURE.md (核心设计文档)
     ├── ARCHITECTURE_SUMMARY.md (快速导航)
     ├── PLAN.md (开发计划)
     ├── PHASE0_SUMMARY.md (Phase 0 总结)
     ├── QUICKSTART.md (使用指南)
-    ├── TASK_COMPLETION.md (任务总结)
-    └── ARCH.md (历史文档，已废弃)
+    └── TASK_COMPLETION.md (任务总结)
 ```
 
 ## 🔗 相关链接

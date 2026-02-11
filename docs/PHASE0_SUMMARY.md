@@ -266,7 +266,7 @@ The foundation is now ready for:
 ## 📚 References
 
 - Problem Statement: See [PLAN.md](PLAN.md) Phase 0 section
-- Architecture: See [ARCH.md](ARCH.md) (early version) and [ARCHITECTURE.md](ARCHITECTURE.md) (final version)
+- Architecture: See [ARCHITECTURE.md](ARCHITECTURE.md) (final architecture document)
 - Quick Start: See [QUICKSTART.md](QUICKSTART.md)
 - Original README: See [README.md](../README.md)
 
