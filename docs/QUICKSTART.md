@@ -209,7 +209,7 @@ Phase 0 establishes the foundation. Future phases will add:
 
 ## 🤝 Contributing
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+See [CONTRIBUTING.md](../CONTRIBUTING.md) for guidelines (to be created).
 
 ## 📜 License
 

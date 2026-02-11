@@ -3,7 +3,7 @@
 ## 📋 任务描述
 
 **原始需求（中文）**:
-> 请根据PLAN.md的描述，设计接近Claude Code, OpenCode体验的CLI + Streamlit架构， 请创建最终期望的架构文档
+> 请根据[PLAN.md](PLAN.md)的描述，设计接近Claude Code, OpenCode体验的CLI + Streamlit架构， 请创建最终期望的架构文档
 
 **任务翻译**:
 根据 PLAN.md 的描述，设计一个接近 Claude Code 和 OpenCode 体验的 CLI + Streamlit 架构，并创建最终期望的架构文档。
@@ -147,10 +147,11 @@ Execution & Tools Layer (执行与工具层)
 ## 🔍 质量保证
 
 ### 文档完整性
-- ✅ 覆盖所有 PLAN.md 要求的功能点
-- ✅ 提供详细的实现示例（27 个代码块）
-- ✅ 包含完整的部署指南
-- ✅ 性能和安全考量齐全
+- ✅ 涵盖所有四个阶段（Phase 0-3）
+- ✅ 每个阶段都有明确的验收标准
+- ✅ 覆盖所有 [PLAN.md](PLAN.md) 要求的功能点
+- ✅ 提供详细的技术栈选型理由
+- ✅ 包含完整的代码示例
 
 ### 可行性
 - ✅ 基于成熟技术栈（Python 生态）
@@ -166,21 +167,25 @@ Execution & Tools Layer (执行与工具层)
 
 ## 📚 相关文档
 
-创建/更新的文档：
-1. **ARCHITECTURE.md** - 主要架构文档（新建）
+**已创建或调整的文档**:
+1. **[ARCHITECTURE.md](ARCHITECTURE.md)** - 主要架构文档（新建）
 2. **ARCHITECTURE_SUMMARY.md** - 快速导航（新建）
-3. **README.md** - 添加文档章节（更新）
+3. **[README.md](../README.md)** - 项目简介（更新文档章节）
+4. **[PLAN.md](PLAN.md)** - 开发计划（四阶段）
+5. **[PHASE0_SUMMARY.md](PHASE0_SUMMARY.md)** - Phase 0 实现总结
+6. **[QUICKSTART.md](QUICKSTART.md)** - 快速开始指南
 
-现有参考文档：
-4. **PLAN.md** - 开发计划（四阶段）
-5. **PHASE0_SUMMARY.md** - Phase 0 实现总结
-6. **QUICKSTART.md** - 快速开始指南
-7. **ARCH.md** - 早期架构讨论（已被 ARCHITECTURE.md 取代）
+**文档关系**:
+- ✅ [ARCHITECTURE.md](ARCHITECTURE.md) 为最终架构设计
+- ✅ 基于 [PLAN.md](PLAN.md) 设计
+- ✅ 兼容 [PHASE0_SUMMARY.md](PHASE0_SUMMARY.md) 已实现的功能
+- ✅ 与 [QUICKSTART.md](QUICKSTART.md) 使用指南保持一致
+- ✅ [README.md](../README.md) 文档章节已更新链接
 
 ## 🎉 成功标准达成
 
 ### 任务要求
-- ✅ 基于 PLAN.md 设计
+- ✅ 基于 [PLAN.md](PLAN.md) 设计
 - ✅ 接近 Claude Code / OpenCode 体验
 - ✅ CLI + Streamlit 架构
 - ✅ 创建最终期望的架构文档
@@ -200,7 +205,7 @@ Execution & Tools Layer (执行与工具层)
 ## 🚀 后续建议
 
 ### 立即可做
-1. **评审架构文档**: 团队评审 ARCHITECTURE.md
+1. **评审架构文档**: 团队评审 [ARCHITECTURE.md](ARCHITECTURE.md)
 2. **确认技术栈**: 验证所选技术的可行性
 3. **规划 Phase 1**: 开始 Slash 命令系统开发
 
